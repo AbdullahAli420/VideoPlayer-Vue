@@ -1,0 +1,1 @@
+(Math.abs(parseFloat(vBlockStart) - x) / parseFloat(tSeekWidth)) * 100
